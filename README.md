@@ -8,9 +8,12 @@ For API details, configuration and runtime commands, see the [Technical README](
 
 ## Demo
 
-Run the renderer locally using the installation steps below, then try the [sample content payload](examples/render-payload.json) through the [interactive API documentation](http://localhost:8000/docs).
+**Open Form Here:**
 
-No public demo is currently documented in this repository.
+[![Test Workflow](https://img.shields.io/badge/TEST%20WORKFLOW-Open%20Demo-brightgreen?style=for-the-badge)](https://n8n-rai-ff11f30e81fc.herokuapp.com/form/334b03da-92b2-4cc6-bc96-5c0da6c9eec7)
+> This is a demonstration environment. Submit fictional information only. Do not enter confidential, financial, identity or personal data.
+
+Run the renderer locally using the installation steps below, then try the [sample content payload](examples/render-payload.json) through the [interactive API documentation](http://localhost:8000/docs).
 
 ## Project Overview
 
